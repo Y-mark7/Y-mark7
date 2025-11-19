@@ -1,4 +1,5 @@
-# Hi there, you can call me as GU7
+# Hi there. How's going?
+## You can call me as GU7
 
 <!--
 **Y-mark7/Y-mark7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
